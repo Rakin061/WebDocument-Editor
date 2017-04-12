@@ -12,7 +12,7 @@
 <link rel="stylesheet" href="modal.css"> 
 
 
-<title>Document Editor</title>
+<title>Web Document Editor</title>
 <style type="text/css">
 
 
