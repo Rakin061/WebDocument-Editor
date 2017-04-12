@@ -1,0 +1,38 @@
+body.webdocument {
+     width: 15.8cm;
+    min-height: 21cm;
+    padding: 1cm 2cm 2cm;
+    margin: 0.5cm auto;
+    border: 1px #D3D3D3 solid;
+    border-radius: 5px;
+    background: white;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+body.webdocument, body.webdocument td, body.webdocument th {
+    font-size: 0.9em;
+}
+
+body.webdocument table {
+    margin-top:0.5cm;
+    margin-bottom:0.5cm;
+}
+
+body.webdocument h1 {
+    margin-bottom:1cm;
+}
+
+    .cke_top
+    {
+    	zoom:0.8;
+    }
+    
+    .cke_combopanel
+{
+    zoom:0.85;
+}
+
+.cke_panel_frame
+{
+    zoom:0.8;
+}
